@@ -4,7 +4,7 @@
 
 **A simple, powerful workflow for semantic versioning and structured Git history.**
 
-![Version](https://img.shields.io/badge/Version-v1.0.0-blue)
+![Version](https://img.shields.io/badge/Version-v1.0.1-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)
 
