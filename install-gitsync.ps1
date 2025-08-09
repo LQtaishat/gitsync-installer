@@ -9,7 +9,7 @@
 
 # --- Step 0: Initial Setup ---
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
-$global:latestVersion = "1.0.0" # The version available for download
+$global:latestVersion = "1.0.1" # The version available for download
 
 # --- Step 1: Setup Logging ---
 $logFile = "$([Environment]::GetFolderPath('Desktop'))\gitsync-installer-log.txt"
